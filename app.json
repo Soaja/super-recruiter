@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "super-recruiter-app",
+    "slug": "super-recruiter-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "superrecruiterapp",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "rs.superecruiter.app"
+    },
+    "android": {
+      "package": "rs.superecruiter.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0d0d0d",
+        "foregroundImage": "./assets/images/icon.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    }
+  }
+}
